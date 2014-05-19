@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>calú</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-path</key>
+		<string>OEPBS/Images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>publisher-unique-id</key>
+		<string>postrebinario</string>
+		<key>unique-id</key>
+		<string>ISBN</string>
+	</dict>
+	<key>itemName</key>
+	<string>postrebinario 2014</string>
+	<key>playlistName</key>
+	<string>postrebinario 2014</string>
+	<key>releaseDate</key>
+	<string>2014-12-26</string>
+	<key>sort-artist</key>
+	<string>calú</string>
+	<key>sort-artist-status</key>
+	<integer>1</integer>
+	<key>sort-name</key>
+	<string>postrebinario 2014</string>
+	<key>sort-name-status</key>
+	<integer>1</integer>
+	<key>year</key>
+	<integer>2014</integer>
+	<key>releaseDate</key>
+	<string>2014</string>
+	<key>comments</key>
+	<string>apetito tecnológico para no-informáticos</string>
+	<key>genre</key>
+	<string>Computers & Internet</string>
+	<key>genreId</key>
+	<integer>9027</integer>
+	<key>kind</key>
+	<string>ebook</string>
+	<key>compilation</key>
+	<false/>
+	<key>primaryLanguage</key>
+	<string>es</string>
+	<key>publisher</key>
+	<string>postrebinario</string>
+</dict>
+</plist>
