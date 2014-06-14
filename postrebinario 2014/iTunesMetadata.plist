@@ -37,7 +37,7 @@
 	<key>comments</key>
 	<string>apetito tecnológico para no-informáticos</string>
 	<key>genre</key>
-	<string>Computers & Internet</string>
+	<string>Computers &amp; Internet</string>
 	<key>genreId</key>
 	<integer>9027</integer>
 	<key>kind</key>
